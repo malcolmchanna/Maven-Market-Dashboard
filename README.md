@@ -16,20 +16,13 @@
     - [Store Analysis](#store-analysis)
     - [Overall](#overall)
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Image Demo</title>
-</head>
-<body>
+<table>
+  <tr>
+    <td align="center"><img src="model.png" alt="Image 1"></td>
+    <td align="center"><img src="table Information.png" alt="Image 2"></td>
+  </tr>
+</table>
 
-<img src="model.png" style="width:50%; float:left; padding: 5px;" alt="Model Image">
-<img src="table Information.png" style="width:50%; float:left; padding: 5px;" alt="Table Information Image">
-
-</body>
-</html>
 
 
 
