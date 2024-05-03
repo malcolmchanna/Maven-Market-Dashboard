@@ -15,7 +15,6 @@
     - [Product Analysis](#product-analysis)
     - [Store Analysis](#store-analysis)
     - [Overall](#overall)
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -23,31 +22,29 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Image Demo</title>
 <style>
-  .column {
-    float: left;
-    width: 50%;
-    padding: 5px;
+  .container {
+    display: flex;
   }
-  .row:after {
-    content: "";
-    display: table;
-    clear: both;
+  .image {
+    flex: 1;
+    padding: 5px;
   }
 </style>
 </head>
 <body>
 
-<div class="row">
-  <div class="column">
+<div class="container">
+  <div class="image">
     <img src="model.png" style="width:100%" alt="Model Image">
   </div>
-  <div class="column">
+  <div class="image">
     <img src="table Information.png" style="width:100%" alt="Table Information Image">
   </div>
 </div>
 
 </body>
 </html>
+
 
 
 ## Introduction
