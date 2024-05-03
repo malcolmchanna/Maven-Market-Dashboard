@@ -15,35 +15,22 @@
     - [Product Analysis](#product-analysis)
     - [Store Analysis](#store-analysis)
     - [Overall](#overall)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Image Demo</title>
-<style>
-  .container {
-    display: flex;
-  }
-  .image {
-    flex: 2;
-    padding: 5px;
-  }
-</style>
 </head>
 <body>
 
-<div class="container">
-  <div class="image">
-    <img src="model.png" style="width:10%" alt="Model Image">
-  </div>
-  <div class="image">
-    <img src="table Information.png" style="width:10%" alt="Table Information Image">
-  </div>
-</div>
+<img src="model.png" style="width:50%; float:left; padding: 5px;" alt="Model Image">
+<img src="table Information.png" style="width:50%; float:left; padding: 5px;" alt="Table Information Image">
 
 </body>
 </html>
+
 
 
 
