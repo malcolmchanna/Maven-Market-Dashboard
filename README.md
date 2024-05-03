@@ -29,16 +29,35 @@
   </tr>
 </table>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="margin-right: 20px;">
-    <img src="MavenMarketDashboard.png" alt="Dashboard 1" style="width: 300px; height: auto;">
-    <p style="text-align: center; font-style: italic;">Dashboard 1</p>
-  </div>
-  <div>
-    <img src="MavenMarketDashboard_.png" alt="Dashboard 2" style="width: 300px; height: auto;">
-    <p style="text-align: center; font-style: italic;">Dashboard 2</p>
+<div class="slider-container">
+  <div class="slider">
+    <div class="slide">
+      <img src="MavenMarketDashboard.png" alt="Dashboard 1">
+    </div>
+    <div class="slide">
+      <img src="MavenMarketDashboard_.png" alt="Dashboard 2">
+    </div>
   </div>
 </div>
+.slider-container {
+  width: 100%;
+  overflow: hidden;
+}
+
+.slider {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.slide {
+  flex: 0 0 auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 
 
 
