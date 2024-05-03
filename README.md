@@ -1,4 +1,4 @@
-#Maven Market Dashbaord Report
+# Maven Market Dashbaord Report
 
 ## Created by - Muzamil Channa @ Aspiring Data Analyst [Linkedin Profile](https://www.linkedin.com/in/muzamil-channa-a2216a175/)
 
@@ -29,6 +29,8 @@
   </tr>
 </table>
 
+# DASHBOARD
+
 <div class="slider-container">
   <div class="slider">
     <div class="slide">
@@ -39,24 +41,6 @@
     </div>
   </div>
 </div>
-.slider-container {
-  width: 100%;
-  overflow: hidden;
-}
-
-.slider {
-  display: flex;
-  transition: transform 0.5s ease;
-}
-
-.slide {
-  flex: 0 0 auto;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-}
 
 
 
