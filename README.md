@@ -18,10 +18,10 @@
 
 <div class="row">
   <div class="column">
-    <img src="model.png"  style="width:100%">
+    <img src="model.png"  style="width:70%">
   </div>
   <div class="column">
-    <img src="Table Information.png"  style="width:100%">
+    <img src="table Information.png"  style="width:70%">
   </div>
 </div>
 
