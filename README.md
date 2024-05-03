@@ -26,7 +26,7 @@
     display: flex;
   }
   .image {
-    flex: 1;
+    flex: 2;
     padding: 5px;
   }
 </style>
@@ -35,10 +35,10 @@
 
 <div class="container">
   <div class="image">
-    <img src="model.png" style="width:100%" alt="Model Image">
+    <img src="model.png" style="width:10%" alt="Model Image">
   </div>
   <div class="image">
-    <img src="table Information.png" style="width:100%" alt="Table Information Image">
+    <img src="table Information.png" style="width:10%" alt="Table Information Image">
   </div>
 </div>
 
