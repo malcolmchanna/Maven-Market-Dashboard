@@ -16,12 +16,6 @@
     - [Store Analysis](#store-analysis)
     - [Overall](#overall)
 
-<table>
-  <tr>
-    <td align="center"><img src="model.png" alt="Image 1"></td>
-    <td align="center"><img src="table Information.png" alt="Image 2"></td>
-  </tr>
-</table>
 
 <table style="border-collapse: separate; border-spacing: 20px;">
   <tr>
