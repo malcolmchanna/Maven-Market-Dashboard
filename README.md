@@ -25,28 +25,15 @@
 
 <table style="border-collapse: separate; border-spacing: 20px;">
   <tr>
+    <td align="center">Relational Model</td>
+    <td align="center">Connecting and shaping the source data
+</td>
+  </tr>
+    <tr>
     <td align="center"><img src="model.png" alt="Model Image"></td>
     <td align="center"><img src="table Information.png" alt="Table Information Image"></td>
   </tr>
-  <tr>
-    <td align="center">Model Image</td>
-    <td align="center">Table Information Image</td>
-  </tr>
 </table>
-
-<table>
-  <tr>
-    <td align="center"><img src="model.png" alt="Model Image"></td>
-    <td width="50"></td><!-- Adjust the width to control the space -->
-    <td align="center"><img src="table Information.png" alt="Table Information Image"></td>
-  </tr>
-  <tr>
-    <td align="center">Model Image</td>
-    <td></td>
-    <td align="center">Table Information Image</td>
-  </tr>
-</table>
-
 
 
 ## Introduction
