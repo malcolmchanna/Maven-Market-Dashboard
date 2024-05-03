@@ -15,14 +15,39 @@
     - [Product Analysis](#product-analysis)
     - [Store Analysis](#store-analysis)
     - [Overall](#overall)
-<div style="display: flex;">
-  <div style="flex: 50%; padding: 5px;">
-    <img src="model.png" style="width:100%">
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Image Demo</title>
+<style>
+  .column {
+    float: left;
+    width: 50%;
+    padding: 5px;
+  }
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column">
+    <img src="model.png" style="width:100%" alt="Model Image">
   </div>
-  <div style="flex: 50%; padding: 5px;">
-    <img src="table Information.png" style="width:100%">
+  <div class="column">
+    <img src="table Information.png" style="width:100%" alt="Table Information Image">
   </div>
 </div>
+
+</body>
+</html>
 
 
 ## Introduction
