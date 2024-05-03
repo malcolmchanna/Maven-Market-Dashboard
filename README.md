@@ -15,15 +15,15 @@
     - [Product Analysis](#product-analysis)
     - [Store Analysis](#store-analysis)
     - [Overall](#overall)
-
-<div class="row">
-  <div class="column">
-    <img src="model.png"  style="width:20%">
+<div style="display: flex;">
+  <div style="flex: 50%; padding: 5px;">
+    <img src="model.png" style="width:100%">
   </div>
-  <div class="column">
-    <img src="table Information.png"  style="width:20%">
+  <div style="flex: 50%; padding: 5px;">
+    <img src="table Information.png" style="width:100%">
   </div>
 </div>
+
 
 ## Introduction
 
